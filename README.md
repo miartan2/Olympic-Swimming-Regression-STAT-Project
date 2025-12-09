@@ -21,6 +21,6 @@ This project uses publicly available Olympic swimming results compiled by [Score
 # Insights
 - Polynomail regression (RMSE = 0.889; R^2 = 0.936) improved predictive accuracy over linear models, suggesting meaningful nonlinear interactions between features
 - Regularization (ridge/lasso) did not outperform the simpler linear model, likely due to limited feature dimensionality
-- Spline regression using only Year performed poorly, indicating that temporal strends alone cannot explain performance variation
+- Spline regression using only Year performed poorly, indicating that temporal trends alone cannot explain performance variation
 - Residual diagnostics showed mild nonlinearity and slight deviations from normality
 
